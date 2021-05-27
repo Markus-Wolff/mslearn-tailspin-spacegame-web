@@ -1,3 +1,4 @@
+[![Build Status](https://scioeu.visualstudio.com/Implement%20Code%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://scioeu.visualstudio.com/Implement%20Code%20Workflow/_build/latest?definitionId=10&branchName=master)
 
 # Contributing
 
